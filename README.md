@@ -21,7 +21,7 @@ Staking is presently accessible on the Sepolia Testnet, where participants will 
 ### Clone
 
 ```
-   git clone https://github.com/Finalgoal231/munity-game.git
+   https://github.com/Ventionss/munity-update.git
 ```
 
 ### Install dependencies
